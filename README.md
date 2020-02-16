@@ -9,7 +9,7 @@ Feedback and contributions are welcome!
 
 ## Table of Contents
 - [Tutorials](#tutorials)
-- [Style Transfer](#StyleTransfer)
+- [Style Transfer](#Style Transfer)
 
 ## Tutorials
 
