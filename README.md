@@ -45,6 +45,9 @@ NIPS 2015, [[pdf](https://arxiv.org/abs/1505.07376)]
 *G. Berger*, *R. Memisevic*<br>
 ICLR 2017, [[pdf](https://arxiv.org/abs/1606.01286)]
 
+**Demystifying neural style transfer**<br>
+*Y. Li*, *N. Wang*, *J. Liu*, *X. Hou*<br>
+IJCAI, 2017, [[pdf](https://arxiv.org/abs/1701.01036)]
 
 
 ## Image2Image Translation
