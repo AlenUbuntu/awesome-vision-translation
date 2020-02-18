@@ -41,6 +41,12 @@ International journal of computer vision, 2000 [[pdf](https://www.cns.nyu.edu/pu
 *L. A. Gatys*, *A. S. Ecker*, *M. Bethge*<br>
 NIPS 2015, [[pdf](https://arxiv.org/abs/1505.07376)]
 
+**Incorporating long-range consistency in cnn-based texture generation**<br>
+*G. Berger*, *R. Memisevic*<br>
+ICLR 2017, [[pdf](https://arxiv.org/abs/1606.01286)]
+
+
+
 ## Image2Image Translation
 
 
