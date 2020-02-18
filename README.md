@@ -60,6 +60,10 @@ ICCV, 1999, [[pdf](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/pa
 *L.-Y. Wei*, *M. Levoy*<br>
 the 27th annual conference on Computer graphics and interactive techniques, 2000 [[pdf](https://graphics.stanford.edu/papers/texture-synthesis-sig00/texture.pdf)]
 
+<br>
+<br>
+
+
 ### Image Reconstruction
 ---
 #### Image-Optimisation-Based Online Image Reconstruction (IOB-IR)
