@@ -22,9 +22,9 @@ Feedback and contributions are welcome!
 
 ## Style Transfer
 ### Visual Texture Modeling
+---
 #### Parametric Texture Modeling with Summary Statistics
 ---
-
 **Visual pattern discrimination** <br>
 *B. Julesz* <br>
 IRE transactions on Information Theory, 1962 [[pdf](https://ieeexplore.ieee.org/document/1057698)]
@@ -49,8 +49,9 @@ ICLR 2017, [[pdf](https://arxiv.org/abs/1606.01286)]
 *Y. Li*, *N. Wang*, *J. Liu*, *X. Hou*<br>
 IJCAI, 2017, [[pdf](https://arxiv.org/abs/1701.01036)]
 
+---
 #### Non-Parametric Texture Modeling with MRFs.
---- 
+---
 **Texture synthesis by nonparametric sampling**<br>
 *A. A. Efros*, *T. K. Leung*<br>
 ICCV, 1999, [[pdf](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/papers/efros-iccv99.pdf)]
