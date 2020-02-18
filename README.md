@@ -49,6 +49,15 @@ ICLR 2017, [[pdf](https://arxiv.org/abs/1606.01286)]
 *Y. Li*, *N. Wang*, *J. Liu*, *X. Hou*<br>
 IJCAI, 2017, [[pdf](https://arxiv.org/abs/1701.01036)]
 
+#### Non-Parametric Texture Modeling with MRFs.
+--- 
+**Texture synthesis by nonparametric sampling**<br>
+*A. A. Efros*, *T. K. Leung*<br>
+ICCV, 1999, [[pdf](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/papers/efros-iccv99.pdf)]
+
+**Fast texture synthesis using treestructured vector quantization**<br>
+*L.-Y. Wei*, *M. Levoy*<br>
+the 27th annual conference on Computer graphics and interactive techniques, 2000 [[pdf](https://graphics.stanford.edu/papers/texture-synthesis-sig00/texture.pdf)]
 
 ## Image2Image Translation
 
