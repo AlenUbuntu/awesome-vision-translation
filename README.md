@@ -60,6 +60,28 @@ ICCV, 1999, [[pdf](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/pa
 *L.-Y. Wei*, *M. Levoy*<br>
 the 27th annual conference on Computer graphics and interactive techniques, 2000 [[pdf](https://graphics.stanford.edu/papers/texture-synthesis-sig00/texture.pdf)]
 
+### Image Reconstruction
+---
+#### Image-Optimisation-Based Online Image Reconstruction (IOB-IR)
+---
+**Understanding deep image representations by inverting them**<br>
+*A. Mahendran*, *A. Vedaldi*<br>
+CVPR, 2015, [[pdf](https://arxiv.org/abs/1412.0035)]
+
+**Visualizing deep convolutional neural networks using natural pre-images**<br>
+IJCV, 2016 [[pdf](https://arxiv.org/pdf/1512.02017.pdf)]
+
+---
+#### Model-Optimisation-Based Offline Image Reconstruction (MOB-IR)
+---
+**Inverting visual representations with convolutional networks**<br>
+*A. Dosovitskiy*, *T. Brox*<br>
+CVPR, 2016, [[pdf](https://arxiv.org/pdf/1506.02753.pdf)]
+
+**Generating images with perceptual similarity metrics based on deep networks**
+*Alexey Dosovitskiy*, *Thomas Brox*
+NIPS, 2016, [[pdf](https://arxiv.org/pdf/1602.02644.pdf)]
+
 ## Image2Image Translation
 
 
