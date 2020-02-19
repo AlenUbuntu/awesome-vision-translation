@@ -183,8 +183,28 @@ BMVC, 2017, [[pdf](https://arxiv.org/abs/1705.06830)]
 *T. Q. Chen*, *M. Schmidt*<br>
 NIPS Workshop, 2016, [[pdf](https://arxiv.org/abs/1612.04337)]
 <br>
+<br>
 
 ### Applications
+---
+#### Semantic Style Transfer
+---
+**Semantic style transfer and turning two-bit doodles into fine artworks**<br>
+*A. J. Champandard*<br>
+Arxiv, 2016, [[pdf](https://arxiv.org/abs/1603.01768)]
+
+**Towards deep style transfer: A content-aware perspective**<br>
+*Y.-L. Chen*, *C.-T. Hsu*<br>
+BMVC, 2016, [[pdf](https://pdfs.semanticscholar.org/6969/2465952055d6d5702d30f62914c913445fd1.pdf?_ga=2.23953535.450081699.1582152439-637817447.1569507720)]
+
+**The contextual loss for image transformation with non-aligned data**<br>
+*R. Mechrez*, *I. Talmi*, *L. Zelnik-Manor*<br>
+ECCV, 2018, [[pdf](https://arxiv.org/abs/1803.02077)]
+
+**Decoder network over lightweight reconstructed feature for fast semantic
+style transfer**<br>
+*M. Lu*, *H. Zhao*, *A. Yao*, *F. Xu*, *Y. Chen*, *L. Zhang*<br>
+ICCV, 2017, [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lu_Decoder_Network_Over_ICCV_2017_paper.pdf)]
 
 
 ## Image2Image Translation
