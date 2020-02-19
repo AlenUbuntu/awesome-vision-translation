@@ -145,5 +145,26 @@ ECCV, 2016 [[pdf](https://arxiv.org/abs/1604.04382)]
 <br>
 <br>
 
+---
+#### Multiple-Style-Per-Model Offline Neural Methods
+---
+**A learned representation for artistic style**<br>
+*V. Dumoulin*, *J. Shlens*, *M. Kudlur*<br>
+ICLR, 2017, [[pdf](https://arxiv.org/abs/1610.07629)]
+
+**Stylebank: An explicit representation for neural image style transfer**<br>
+*D. Chen*, *L. Yuan*, *J. Liao*, *N. Yu*, *G. Hua*<br>
+CVPR, 2017, [[pdf](https://arxiv.org/abs/1703.09210)]
+
+**Diversified texture synthesis with feed-forward networks**<br>
+*Y. Li*, *F. Chen*,  *J. Yang*, *Z. Wang*, *X. Lu*, *M.-H. Yang*<br>
+CVPR, 2017, [[pdf](https://arxiv.org/abs/1703.01664)]
+
+**Multi-style generative network for realtime transfer**<br>
+*H. Zhang*, *K. Dana*<br>
+Arxiv, 2017, [[pdf](https://arxiv.org/abs/1703.06953)]
+
+<br>
+<br>
 
 ## Image2Image Translation
