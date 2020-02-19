@@ -205,7 +205,29 @@ ICCV, 2017, [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lu_Deco
 Arxiv, 2016, [[pdf](https://arxiv.org/abs/1603.01768)]
 
 **Towards deep style transfer: A content-aware perspective**<br>
-*Y.-L. Chen*, *C.-T. Hsu*<br>
+*Y.-L. Chen*, *C.-T. Hsu*<br>]
 BMVC, 2016, [[pdf](https://pdfs.semanticscholar.org/6969/2465952055d6d5702d30f62914c913445fd1.pdf?_ga=2.23953535.450081699.1582152439-637817447.1569507720)]
+<br>
+<br>
+
+---
+#### Doodle Style Transfer
+---
+**Semantic style transfer and turning two-bit doodles into fine artworks**<br>
+*A. J. Champandard*<br>
+Arxiv, 2016, [[pdf](https://arxiv.org/abs/1603.01768)]
+<br>
+<br>
+
+---
+#### Video Style Transfer
+---
+**Artistic style transfer for videos and spherical images**<br>
+*Manuel Ruder*, *Alexey Dosovitskiy*, *Thomas Brox*<br>
+IJCV, 2018, [[pdf](https://arxiv.org/abs/1708.04538)]
+
+**Artistic style transfer for videos**<br>
+*M. Ruder*, *A. Dosovitskiy*, *T. Brox*<br>
+GCPR, 2016, [[pdf](https://arxiv.org/abs/1604.08610)]
 
 ## Image2Image Translation
