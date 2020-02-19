@@ -247,6 +247,17 @@ GCPR, 2016, [[pdf](https://arxiv.org/abs/1604.08610)]
 ---
 #### Character Style Transfer
 ---
+**Neural font style transfer**<br>
+*G. Atarsaikhan*, *B. K. Iwana*, *A. Narusawa*, *K. Yanai*, *S. Uchida*<br>
+the IAPR International Conference on Document Analysis and Recognition, 2017, [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8270274)]
+
+**Awesome typography: Statistics-based text effects transfer**<br>
+*S. Yang*, *J. Liu*, *Z. Lian*, *Z. Guo*<br>
+CVPR, 2017, [[pdf](https://www.zpascal.net/cvpr2017/Yang_Awesome_Typography_Statistics-Based_CVPR_2017_paper.pdf)]
+
+**Multi-content gan for few-shot font style transfer**<br>
+*S. Azadi*, *M. Fisher*, *V. Kim*, *Z. Wang*, *E. Shechtman*, *T. Darrell*<br>
+CVPR, 2018, [[pdf](https://arxiv.org/abs/1712.00516)]
 
 
 ## Image2Image Translation
