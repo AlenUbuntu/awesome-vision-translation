@@ -258,6 +258,12 @@ the IAPR International Conference on Document Analysis and Recognition, 2017, [[
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Awesome typography: Statistics-based text effects transfer**<br>
 *S. Yang*, *J. Liu*, *Z. Lian*, *Z. Guo*<br>
 CVPR, 2017, [[pdf](https://www.zpascal.net/cvpr2017/Yang_Awesome_Typography_Statistics-Based_CVPR_2017_paper.pdf)]
+<br>
+<br>
+
+---
+#### Photorealistic Style Transfer
+---
 
 
 ## Image2Image Translation
