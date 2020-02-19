@@ -113,9 +113,11 @@ Arxiv, 2017, [[pdf](https://arxiv.org/abs/1701.08893)]
 *S. Li*, *X. Xu*, *L. Nie*, *T.-S. Chua*<br>
 ACM MM, 2017, [[pdf](https://arxiv.org/abs/1707.01253)]
 
+**Combining markov random fields and convolutional neural networks for image synthesis**<br>
+*C. Li*, *M. Wand*<br>
+CVPR, 2016, [[pdf](https://arxiv.org/abs/1601.04589)]
+
 <br>
 <br>
 
 ## Image2Image Translation
-
-
