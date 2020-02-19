@@ -170,11 +170,26 @@ Arxiv, 2017, [[pdf](https://arxiv.org/abs/1703.06953)]
 ---
 #### Arbitrary-Style-Per-Model Offline Neural Methods
 ---
+**Universal style transfer via feature transforms**<br>
+*Y. Li*, *C. Fang*, *J. Yang*, *Z. Wang*, *X. Lu*, *M.-H. Yang*<br>
+NIPS, 2017, [[pdf](https://arxiv.org/abs/1705.08086)]
+
+**Arbitrary style transfer in real-time with adaptive instance normalization**<br>
+*X. Huang*, *S. Belongie*<br>
+ICCV, 2017, [[pdf](https://arxiv.org/abs/1703.06868)]
+
+**Exploring the structure of a real-time, arbitrary neural artistic stylization network**<br>
+*G. Ghiasi*, *H. Lee*, *M. Kudlur*, *V. Dumoulin*, *J. Shlens*<br>
+BMVC, 2017, [[pdf](https://arxiv.org/abs/1705.06830)]
+
+
 **Fast patch-based style transfer of arbitrary style**<br>
 *T. Q. Chen*, *M. Schmidt*<br>
 NIPS Workshop, 2016, [[pdf](https://arxiv.org/abs/1612.04337)]
 
 <br>
 <br>
+
+
 
 ## Image2Image Translation
