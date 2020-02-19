@@ -91,7 +91,7 @@ NIPS, 2016, [[pdf](https://arxiv.org/pdf/1602.02644.pdf)]
 
 ### A TAXONOMY OF NEURAL STYLE TRANSFER ALGORITHMS
 ---
-#### Image-Optimization-Based Neural Methods
+#### Image-Optimization-Based Online Neural Methods
 ---
 **Image style transfer using convolutional neural networks**<br>
 *L. A. Gatys*, *A. S. Ecker*, *M. Bethge*<br>
@@ -119,5 +119,30 @@ CVPR, 2016, [[pdf](https://arxiv.org/abs/1601.04589)]
 
 <br>
 <br>
+
+---
+#### Per-Style-Per-Model Offline Neural Methods
+---
+
+**Perceptual losses for realtime style transfer and super-resolution**<br>
+*J. Johnson*, *A. Alahi*, *L. Fei-Fei*<br>
+ECCV, 2016, [[pdf](https://arxiv.org/abs/1603.08155)]
+
+**Texture networks: Feed-forward synthesis of textures and stylized images**<br>
+*D. Ulyanov*, *V. Lebedev*, *A. Vedaldi*, *V. Lempitsky*<br>
+ICML, 2016, [[pdf](https://arxiv.org/abs/1603.03417)]
+
+**Instance Normalization: The Missing Ingredient for Fast Stylization**<br>
+*Dmitry Ulyanov*, *Andrea Vedaldi*, *Victor Lempitsky*<br>
+Arxiv, 2016, [[pdf](https://arxiv.org/abs/1607.08022)]
+
+**Improved texture networks: Maximizing quality and diversity in feed-forward stylization and texture synthesis**<br>
+*D. Ulyanov*, *A. Vedaldi*, *A. Vedaldi*<br>
+CVPR, 2017, [[pdf](https://arxiv.org/abs/1701.02096)]
+
+
+<br>
+<br>
+
 
 ## Image2Image Translation
