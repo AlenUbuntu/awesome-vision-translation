@@ -226,8 +226,27 @@ Arxiv, 2016, [[pdf](https://arxiv.org/abs/1603.01768)]
 *Manuel Ruder*, *Alexey Dosovitskiy*, *Thomas Brox*<br>
 IJCV, 2018, [[pdf](https://arxiv.org/abs/1708.04538)]
 
+**Real-time neural style transfer for videos**<br>
+*H. Huang*, *H. Wang*, *W. Luo*, *L. Ma*, *W. Jiang*, *X. Zhu*, *Z. Li*, *W. Liu*<br>
+CVPR, 2017, [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)]
+
+**Characterizing and improving stability in neural style transfer**<br>
+*A. Gupta*, *J. Johnson*, *A. Alahi*, *L. Fei-Fei*<br>
+ICCV, 2017, [[pdf](https://arxiv.org/abs/1705.02092)]
+
+**Coherent online video style transfer**<br>
+*D. Chen*, *J. Liao*, *L. Yuan*, *N. Yu*, *G. Hua*<br>
+ICCV, 2017, [[pdf](https://arxiv.org/abs/1703.09211)]
+
 **Artistic style transfer for videos**<br>
 *M. Ruder*, *A. Dosovitskiy*, *T. Brox*<br>
 GCPR, 2016, [[pdf](https://arxiv.org/abs/1604.08610)]
+<br>
+<br>
+
+---
+#### Character Style Transfer
+---
+
 
 ## Image2Image Translation
