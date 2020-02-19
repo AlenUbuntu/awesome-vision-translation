@@ -59,10 +59,8 @@ the 27th annual conference on Computer graphics and interactive techniques, 2000
 **Texture synthesis by nonparametric sampling**<br>
 *A. A. Efros*, *T. K. Leung*<br>
 ICCV, 1999, [[pdf](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/papers/efros-iccv99.pdf)]
-
 <br>
 <br>
-
 
 ### Image Reconstruction
 ---
@@ -85,7 +83,6 @@ CVPR, 2016, [[pdf](https://arxiv.org/pdf/1506.02753.pdf)]
 **Generating images with perceptual similarity metrics based on deep networks**<br>
 *Alexey Dosovitskiy*, *Thomas Brox*<br>
 NIPS, 2016, [[pdf](https://arxiv.org/pdf/1602.02644.pdf)]
-
 <br>
 <br>
 
@@ -181,7 +178,6 @@ ICCV, 2017, [[pdf](https://arxiv.org/abs/1703.06868)]
 **Exploring the structure of a real-time, arbitrary neural artistic stylization network**<br>
 *G. Ghiasi*, *H. Lee*, *M. Kudlur*, *V. Dumoulin*, *J. Shlens*<br>
 BMVC, 2017, [[pdf](https://arxiv.org/abs/1705.06830)]
-
 
 **Fast patch-based style transfer of arbitrary style**<br>
 *T. Q. Chen*, *M. Schmidt*<br>
