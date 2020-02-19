@@ -82,9 +82,39 @@ IJCV, 2016 [[pdf](https://arxiv.org/pdf/1512.02017.pdf)]
 *A. Dosovitskiy*, *T. Brox*<br>
 CVPR, 2016, [[pdf](https://arxiv.org/pdf/1506.02753.pdf)]
 
-**Generating images with perceptual similarity metrics based on deep networks**
-*Alexey Dosovitskiy*, *Thomas Brox*
+**Generating images with perceptual similarity metrics based on deep networks**<br>
+*Alexey Dosovitskiy*, *Thomas Brox*<br>
 NIPS, 2016, [[pdf](https://arxiv.org/pdf/1602.02644.pdf)]
+
+<br>
+<br>
+
+### A TAXONOMY OF NEURAL STYLE TRANSFER ALGORITHMS
+---
+#### Image-Optimization-Based Neural Methods
+---
+**Image style transfer using convolutional neural networks**<br>
+*L. A. Gatys*, *A. S. Ecker*, *M. Bethge*<br>
+CVPR, 2016, [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)]
+
+**A neural algorithm of artistic style**<br>
+*L. A. Gatys*, *A. S. Ecker*, *M. Bethge*<br>
+Arxiv, 2015, [[pdf](https://arxiv.org/pdf/1508.06576.pdf)]
+
+**Demystifying neural style transfer**<br>
+*Y. Li*, *N. Wang*, *J. Liu*, *X. Hou*<br>
+IJCAI, 2017, [[pdf](https://arxiv.org/abs/1701.01036)]
+
+**Stable and controllable neural texture synthesis and style transfer using histogram losses**<br>
+*E. Risser*, *P. Wilmot*, *C. Barnes*<br>
+Arxiv, 2017, [[pdf](https://arxiv.org/abs/1701.08893)]
+
+**Laplacian-steered neural style transfer**<br>
+*S. Li*, *X. Xu*, *L. Nie*, *T.-S. Chua*<br>
+ACM MM, 2017, [[pdf](https://arxiv.org/abs/1707.01253)]
+
+<br>
+<br>
 
 ## Image2Image Translation
 
