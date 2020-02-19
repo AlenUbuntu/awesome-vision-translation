@@ -163,7 +163,6 @@ CVPR, 2017, [[pdf](https://arxiv.org/abs/1703.01664)]
 **Multi-style generative network for realtime transfer**<br>
 *H. Zhang*, *K. Dana*<br>
 Arxiv, 2017, [[pdf](https://arxiv.org/abs/1703.06953)]
-
 <br>
 <br>
 
@@ -187,10 +186,9 @@ BMVC, 2017, [[pdf](https://arxiv.org/abs/1705.06830)]
 **Fast patch-based style transfer of arbitrary style**<br>
 *T. Q. Chen*, *M. Schmidt*<br>
 NIPS Workshop, 2016, [[pdf](https://arxiv.org/abs/1612.04337)]
-
-<br>
 <br>
 
+### Applications
 
 
 ## Image2Image Translation
