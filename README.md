@@ -170,11 +170,12 @@ Arxiv, 2017, [[pdf](https://arxiv.org/abs/1703.06953)]
 ---
 #### Arbitrary-Style-Per-Model Offline Neural Methods
 ---
-**Universal style transfer via feature transforms**<br>
+
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Universal style transfer via feature transforms**<br>
 *Y. Li*, *C. Fang*, *J. Yang*, *Z. Wang*, *X. Lu*, *M.-H. Yang*<br>
 NIPS, 2017, [[pdf](https://arxiv.org/abs/1705.08086)]
 
-**Arbitrary style transfer in real-time with adaptive instance normalization**<br>
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Arbitrary style transfer in real-time with adaptive instance normalization**<br>
 *X. Huang*, *S. Belongie*<br>
 ICCV, 2017, [[pdf](https://arxiv.org/abs/1703.06868)]
 
