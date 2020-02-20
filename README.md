@@ -264,6 +264,22 @@ CVPR, 2017, [[pdf](https://www.zpascal.net/cvpr2017/Yang_Awesome_Typography_Stat
 ---
 #### Photorealistic Style Transfer
 ---
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **A Closed-form Solution to Photorealistic Image Stylization**<br>
+*Y. Li*, *M.-Y. Liu*, *X. Li*, *M.-H. Yang*, *J. Kautz*<br>
+ECCV, 2018, [[pdf](https://arxiv.org/abs/1802.06474)]
 
+**Style transfer for anime sketches with enhanced residual u-net and auxiliary classifier gan**<br>
+*L. Zhang*, *Y. Ji*, *X. Lin*<br>
+ACPR, 2017, [[pdf](https://arxiv.org/abs/1706.03319)]
+
+**Deep photo style transfer**<br>
+*F. Luan*, *S. Paris*, *E. Shechtman*, *K. Bala*<br>
+CVPR, 2017, [[pdf](https://arxiv.org/abs/1703.07511)]
+
+**Photorealistic style transfer with screened poisson equation**<br>
+*R. Mechrez*, *E. Shechtman*, *L. Zelnik-Manor*<br>
+BMVC, 2017, [[pdf](https://arxiv.org/abs/1709.09828)]
+<br>
+<br>
 
 ## Image2Image Translation
