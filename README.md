@@ -227,7 +227,7 @@ Arxiv, 2016, [[pdf](https://arxiv.org/abs/1603.01768)]
 ---
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Learning Linear Transformations for Fast Image and Video Style Transfer**<br>
 *Xueting Li*, *Sifei Liu*, *Jan Kautz*, *Ming-Hsuan Yang*<br>
-CVPR, 2019, [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_Linear_Transformations_for_Fast_Image_and_Video_Style_Transfer_CVPR_2019_paper.pdf)]
+CVPR, 2019, [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_Linear_Transformations_for_Fast_Image_and_Video_Style_Transfer_CVPR_2019_paper.pdf)] [[code](https://github.com/sunshineatnoon/LinearStyleTransfer)]
 
 **Artistic style transfer for videos and spherical images**<br>
 *Manuel Ruder*, *Alexey Dosovitskiy*, *Thomas Brox*<br>
@@ -256,7 +256,7 @@ GCPR, 2016, [[pdf](https://arxiv.org/abs/1604.08610)]
 ---
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Multi-content gan for few-shot font style transfer**<br>
 *S. Azadi*, *M. Fisher*, *V. Kim*, *Z. Wang*, *E. Shechtman*, *T. Darrell*<br>
-CVPR, 2018, [[pdf](https://arxiv.org/abs/1712.00516)]
+CVPR, 2018, [[pdf](https://arxiv.org/abs/1712.00516)] [[code](https://github.com/azadis/MC-GAN)]
 
 **Neural font style transfer**<br>
 *G. Atarsaikhan*, *B. K. Iwana*, *A. Narusawa*, *K. Yanai*, *S. Uchida*<br>
@@ -264,7 +264,7 @@ the IAPR International Conference on Document Analysis and Recognition, 2017, [[
 
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Awesome typography: Statistics-based text effects transfer**<br>
 *S. Yang*, *J. Liu*, *Z. Lian*, *Z. Guo*<br>
-CVPR, 2017, [[pdf](https://www.zpascal.net/cvpr2017/Yang_Awesome_Typography_Statistics-Based_CVPR_2017_paper.pdf)]
+CVPR, 2017, [[pdf](https://www.zpascal.net/cvpr2017/Yang_Awesome_Typography_Statistics-Based_CVPR_2017_paper.pdf)] [[code](https://github.com/williamyang1991/Text-Effects-Transfer)]
 <br>
 <br>
 
