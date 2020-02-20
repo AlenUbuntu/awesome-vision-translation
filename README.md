@@ -222,6 +222,10 @@ Arxiv, 2016, [[pdf](https://arxiv.org/abs/1603.01768)]
 ---
 #### Video Style Transfer
 ---
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Learning Linear Transformations for Fast Image and Video Style Transfer**<br>
+*Xueting Li*, *Sifei Liu*, *Jan Kautz*, *Ming-Hsuan Yang*<br>
+CVPR, 2019, [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_Linear_Transformations_for_Fast_Image_and_Video_Style_Transfer_CVPR_2019_paper.pdf)]
+
 **Artistic style transfer for videos and spherical images**<br>
 *Manuel Ruder*, *Alexey Dosovitskiy*, *Thomas Brox*<br>
 IJCV, 2018, [[pdf](https://arxiv.org/abs/1708.04538)]
@@ -264,6 +268,11 @@ CVPR, 2017, [[pdf](https://www.zpascal.net/cvpr2017/Yang_Awesome_Typography_Stat
 ---
 #### Photorealistic Style Transfer
 ---
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Learning Linear Transformations for Fast Image and Video Style Transfer**<br>
+*Xueting Li*, *Sifei Liu*, *Jan Kautz*, *Ming-Hsuan Yang*<br>
+CVPR, 2019, [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_Linear_Transformations_for_Fast_Image_and_Video_Style_Transfer_CVPR_2019_paper.pdf)]
+
+
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **A Closed-form Solution to Photorealistic Image Stylization**<br>
 *Y. Li*, *M.-Y. Liu*, *X. Li*, *M.-H. Yang*, *J. Kautz*<br>
 ECCV, 2018, [[pdf](https://arxiv.org/abs/1802.06474)]
