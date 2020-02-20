@@ -168,15 +168,15 @@ Arxiv, 2017, [[pdf](https://arxiv.org/abs/1703.06953)]
 ---
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration**<br>
 *Lu Sheng*, *Ziyi Lin*, *Jing Shao*, *Xiaogang Wang*<br>
-CVPR, 2018, [[pdf](https://arxiv.org/pdf/1805.03857.pdf)]
+CVPR, 2018, [[pdf](https://arxiv.org/pdf/1805.03857.pdf)] [[code](https://github.com/LucasSheng/avatar-net)]
 
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Universal style transfer via feature transforms**<br>
 *Y. Li*, *C. Fang*, *J. Yang*, *Z. Wang*, *X. Lu*, *M.-H. Yang*<br>
-NIPS, 2017, [[pdf](https://arxiv.org/abs/1705.08086)]
+NIPS, 2017, [[pdf](https://arxiv.org/abs/1705.08086)] [[code](https://github.com/sunshineatnoon/PytorchWCT)]
 
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Arbitrary style transfer in real-time with adaptive instance normalization**<br>
 *X. Huang*, *S. Belongie*<br>
-ICCV, 2017, [[pdf](https://arxiv.org/abs/1703.06868)]
+ICCV, 2017, [[pdf](https://arxiv.org/abs/1703.06868)] [[code](https://github.com/xunhuang1995/AdaIN-style)]
 
 **Exploring the structure of a real-time, arbitrary neural artistic stylization network**<br>
 *G. Ghiasi*, *H. Lee*, *M. Kudlur*, *V. Dumoulin*, *J. Shlens*<br>
