@@ -273,7 +273,7 @@ CVPR, 2017, [[pdf](https://www.zpascal.net/cvpr2017/Yang_Awesome_Typography_Stat
 ---
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Learning Linear Transformations for Fast Image and Video Style Transfer**<br>
 *Xueting Li*, *Sifei Liu*, *Jan Kautz*, *Ming-Hsuan Yang*<br>
-CVPR, 2019, [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_Linear_Transformations_for_Fast_Image_and_Video_Style_Transfer_CVPR_2019_paper.pdf)]
+CVPR, 2019, [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_Linear_Transformations_for_Fast_Image_and_Video_Style_Transfer_CVPR_2019_paper.pdf)] [[code](https://github.com/sunshineatnoon/LinearStyleTransfer)]
 
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup**<br>
 *Huiwen Chang*, *Jingwan Lu*, *Fisher Yu*, *Adam Finkelstein*<br>
@@ -281,7 +281,7 @@ CVPR, 2018, [[pdf](https://adoberesearch.ctlprojects.com/wp-content/uploads/2018
 
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **A Closed-form Solution to Photorealistic Image Stylization**<br>
 *Y. Li*, *M.-Y. Liu*, *X. Li*, *M.-H. Yang*, *J. Kautz*<br>
-ECCV, 2018, [[pdf](https://arxiv.org/abs/1802.06474)]
+ECCV, 2018, [[pdf](https://arxiv.org/abs/1802.06474)]  [[code](https://github.com/NVIDIA/FastPhotoStyle)]
 
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Style transfer for anime sketches with enhanced residual u-net and auxiliary classifier gan**<br>
 *L. Zhang*, *Y. Ji*, *X. Lin*<br>
