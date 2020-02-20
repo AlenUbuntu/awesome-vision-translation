@@ -309,7 +309,7 @@ TOG, 2017, [[pdf](https://arxiv.org/pdf/1705.01088.pdf)]
 ---
 #### Fashion Style Transfer
 ---
-**SwapNet: Image Based Garment Transfer**<br>
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **SwapNet: Image Based Garment Transfer**<br>
 *Amit Raj*, *Patsorn Sangkloy*, *Huiwen Chang*, *James Hays*, *Duygu Ceylan*, *Jingwan Lu*<br>
 ECCV, 2018, [[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf)]
 [[code](https://github.com/andrewjong/SwapNet)]
