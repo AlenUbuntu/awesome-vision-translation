@@ -282,4 +282,22 @@ BMVC, 2017, [[pdf](https://arxiv.org/abs/1709.09828)]
 <br>
 <br>
 
+---
+#### Attribute Style Transfer
+---
+**Visual attribute transfer through deep image analogy**<br>
+*J. Liao*, *Y. Yao*, *L. Yuan*, *G. Hua*, *S. B. Kang*<br>
+TOG, 2017, [[pdf](https://arxiv.org/pdf/1705.01088.pdf)]
+<br>
+<br>
+
+---
+#### Fashion Style Transfer
+---
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Fashion style generator**<br>
+*S. Jiang*, *Y. Fu*<br>
+IJCAI, 2017, [[pdf](https://www.ijcai.org/Proceedings/2017/0520.pdf)]
+<br>
+<br>
+
 ## Image2Image Translation
