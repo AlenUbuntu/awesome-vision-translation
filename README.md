@@ -1,4 +1,4 @@
-# awesome-vision-translation
+# Awesome-Vision-Translation 
 A collection of awesome vision translation resources
 
 ## Contributing
