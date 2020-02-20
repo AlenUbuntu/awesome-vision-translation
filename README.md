@@ -166,6 +166,9 @@ Arxiv, 2017, [[pdf](https://arxiv.org/abs/1703.06953)]
 ---
 #### Arbitrary-Style-Per-Model Offline Neural Methods
 ---
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration**<br>
+*Lu Sheng*, *Ziyi Lin*, *Jing Shao*, *Xiaogang Wang*<br>
+CVPR, 2018, [[pdf](https://arxiv.org/pdf/1805.03857.pdf)]
 
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Universal style transfer via feature transforms**<br>
 *Y. Li*, *C. Fang*, *J. Yang*, *Z. Wang*, *X. Lu*, *M.-H. Yang*<br>
@@ -272,6 +275,9 @@ CVPR, 2017, [[pdf](https://www.zpascal.net/cvpr2017/Yang_Awesome_Typography_Stat
 *Xueting Li*, *Sifei Liu*, *Jan Kautz*, *Ming-Hsuan Yang*<br>
 CVPR, 2019, [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_Linear_Transformations_for_Fast_Image_and_Video_Style_Transfer_CVPR_2019_paper.pdf)]
 
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup**<br>
+*Huiwen Chang*, *Jingwan Lu*, *Fisher Yu*, *Adam Finkelstein*<br>
+CVPR, 2018, [[pdf](https://adoberesearch.ctlprojects.com/wp-content/uploads/2018/04/CVPR2018_Paper3623_Chang.pdf)]
 
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **A Closed-form Solution to Photorealistic Image Stylization**<br>
 *Y. Li*, *M.-Y. Liu*, *X. Li*, *M.-H. Yang*, *J. Kautz*<br>
