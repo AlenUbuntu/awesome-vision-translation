@@ -9,8 +9,10 @@ Feedback and contributions are welcome!
 
 ## Table of Contents
 - [Surveys and Tutorials](#Surveys-and-Tutorials)
+- [PyTorch Implementation Library](#PyTorch-Implementation-Library)
 - [Style Transfer](#Style-Transfer)
 - [Image2Image Translation](#Image2Image-Translation)
+- [Facial Makeup Transfer](#Facial-Makeup-Transfer)
 
 ## Surveys and Tutorials
 
@@ -19,6 +21,10 @@ Feedback and contributions are welcome!
 [On Image-to-Image Translation.](https://people.csail.mit.edu/junyanz/talks/image_translation.pptx) Stanford, MIT, Facebook, CUHK, SNU (2017)
 
 [Neural Style Transfer: A Review](https://arxiv.org/abs/1705.04058)  Yongcheng Jing, Yezhou Yang, Zunlei Feng, Jingwen Ye, Yizhou Yu, and Mingli Song
+
+## PyTorch Implementation Library
+### Style Transfer
+[AdaIN (ICCV 2017), WCT (NIPS 2017), LinearStyleTransfer (CVPR 2019), PhotoWCT (ECCV 2018)](https://github.com/AlenUbuntu/StyleTransfer)
 
 ## Style Transfer
 ### Visual Texture Modeling
@@ -321,3 +327,6 @@ IJCAI, 2017, [[pdf](https://www.ijcai.org/Proceedings/2017/0520.pdf)]
 <br>
 
 ## Image2Image Translation
+
+## Facial Makup Transfer
+
