@@ -327,8 +327,13 @@ IJCAI, 2017, [[pdf](https://www.ijcai.org/Proceedings/2017/0520.pdf)]
 <br>
 
 ## Image2Image Translation
+Refer to [Link]()
 
 ## Facial Makeup Transfer
+**BeautyGlow: On-Demand Makeup Transfer Framework With Reversible Generative Network.**<br>
+*Hung-Jen Chen*, *Ka-Ming Hui*, *Szu-Yu Wang*, *Li-Wu Tsao*, *Hong-Han Shuai*, *Wen-Huang Cheng*<br>
+CVPR 2019 [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_BeautyGlow_On-Demand_Makeup_Transfer_Framework_With_Reversible_Generative_Network_CVPR_2019_paper.html)]
+
 **BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network.**<br>
 *Tingting Li*, *Ruihe Qian*, *Chao Dong*, *Si Liu*, *Qiong Yan*, *Wenwu Zhu*, *Liang Lin*<br>
 ACM Multimedia 2018 [[pdf](http://liusi-group.com/pdf/BeautyGAN-camera-ready_2.pdf)]
@@ -336,8 +341,3 @@ ACM Multimedia 2018 [[pdf](http://liusi-group.com/pdf/BeautyGAN-camera-ready_2.p
 **PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup**<br>
 *Huiwen Chang*, *Jingwan Lu*, *Fisher Yu*, *Adam Finkelstein*<br>
 CVPR 2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_PairedCycleGAN_Asymmetric_Style_CVPR_2018_paper.pdf)]
-
-**BeautyGlow: On-Demand Makeup Transfer Framework With Reversible Generative Network.**<br>
-*Hung-Jen Chen*, *Ka-Ming Hui*, *Szu-Yu Wang*, *Li-Wu Tsao*, *Hong-Han Shuai*, *Wen-Huang Cheng*<br>
-CVPR 2019 [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_BeautyGlow_On-Demand_Makeup_Transfer_Framework_With_Reversible_Generative_Network_CVPR_2019_paper.html)]
-
